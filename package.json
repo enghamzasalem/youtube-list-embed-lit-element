@@ -1,6 +1,7 @@
 {
   "name": "youtube-list-embed-lit-element",
   "main": "youtube-list-embed-lit-element.js",
+  "version": "0.0.1",
   "dependencies": {
     "@polymer/polymer": "^3.0.0",
     "lit-element": "^2.2.1"
